@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    border: 0;
+    border-collapse: collapse;
+   }
+
+ .totales{
+    text-align: center;
+    color:  rgb(240, 197, 141);
+ } 
+ 
+
+ .col1 {
+    width: 100px;
+    color: rgb(240, 197, 141);
+ }
+.col2 {
+    width: 200px;
+    color:  rgb(240, 197, 141);
+}
+
+.col3 {
+    width: 200px;
+    color:  rgb(240, 197, 141);
+}
+
+.col4 {
+    width: 200px;
+    color:  rgb(240, 197, 141);
+}
+
+.col5 {
+    width: 200px;
+    color:  rgb(240, 197, 141);
+}
+.col6 {
+    width: 200px;
+    color:  rgb(240, 197, 141);
+}
+
+.col7 {
+    width: 200px;
+    color:  rgb(240, 197, 141);
+}
+.col8 {
+    width: 200px;
+    color:  rgb(240, 197, 141);
+}
+
+th {
+    padding-top: 40px;
+}
+
+td {
+    text-align: center;
+}
+.madrid {
+    width: 50px;
+}
+
+.alavés {
+    width: 50px;
+    
+}
+
+.athletic {
+    width: 50px;
+}
+
+.atlético {
+    width: 50px;
+}
+.Barcelona {
+    width: 50px;
+}
+
+.betis {
+    width: 50px;
+}
+
+.celta {
+    width: 50px;
+}
+
+.cadiz {
+    width: 50px;
+}
+
+.elche {
+    width: 50px;
+}
